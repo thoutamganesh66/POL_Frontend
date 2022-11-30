@@ -1,3 +1,15 @@
+body
+{
+  /* background-color: rgba(26, 2, 2, 0.527); */
+  background-image: url("./bg.jpg");
+  background-size: cover;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+a{
+  color:#000;
+}
+
 .App {
   text-align: center;
 }
